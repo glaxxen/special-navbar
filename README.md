@@ -9,10 +9,7 @@ A lightweight, responsive navigation bar built with HTML, CSS, and JavaScript.
 ## Live Demo
 https://glaxxen.github.io/special-navbar/
 
-## Demo
-
-https://glaxxen.github.io/special-navbar/
-
+---
 ## Overview
 
 Special Navbar is a simple navigation component showcasing responsive design, clean styling, and interactive behaviour using vanilla JavaScript. The project is intended as a reusable UI component that can be integrated into websites or used as a learning resource for frontend development.
