@@ -1,6 +1,6 @@
 ## Preview
 
-![Special Navbar Preview](preview.png)
+![Special Navbar Preview](preview.gif)
 
 # Special Navbar
 
